@@ -10,5 +10,5 @@ def install_requirements():
 
 if __name__ == "__main__":
     install_requirements()
-    import main  # Replace with your main script
-    main.run()   # Adjust based on how your main script is executed
+    import main  # Replace with ur main script
+    main.run()  
